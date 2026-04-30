@@ -13,12 +13,17 @@
     margin-bottom: 10px;
 
 }
-    
+
+.description{
+    font-size: 20px;
+}
 
 .list{
     text-align: left;
 }
 
+li,
 a{
     color: #d97a1b;
+    font-size: 25px;
 }

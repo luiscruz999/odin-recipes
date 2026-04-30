@@ -1,0 +1,25 @@
+.main {
+    background-color: black;
+    border: solid;
+    border-width: 8px;
+    align-items: center;
+    padding: 10px;
+    width: 700px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+.ribeyeSteak{
+    color: red;
+}
+
+.leftAllign{
+    text-align: left;
+}
+
+a{
+    font-size: 25px;
+    color: red;
+}

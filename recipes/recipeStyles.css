@@ -11,6 +11,11 @@
     margin-bottom: 10px;
 }
 
+a{
+    font-size: 25px;
+}
+
+
 .ribeyeSteak{
     color: red;
 }
@@ -35,7 +40,5 @@
     text-align: left;
 }
 
-a{
-    font-size: 25px;
-    color: red;
-}
+
+
